@@ -1,0 +1,152 @@
+[
+  {
+    "Questions": "What is coronary artery disease?",
+    "Answers": "Coronary artery disease (CAD) is a condition where the blood vessels that supply blood to the heart become narrowed or blocked due to plaque buildup. This plaque consists of cholesterol, fatty deposits, and other substances that accumulate on the inner walls of arteries.",
+    "Patterns": "What is CAD?|Can you explain coronary artery disease?|Define coronary artery disease",
+    "Tags": "Cardiovascular|CAD|Basic Concepts"
+  },
+  {
+    "Questions": "What are the main symptoms of a heart attack?",
+    "Answers": "The main symptoms of a heart attack include chest pain or pressure, shortness of breath, pain radiating to the arm, neck, or jaw, cold sweats, nausea, and lightheadedness. Women may experience less typical symptoms like fatigue and back pain.",
+    "Patterns": "What happens during a heart attack?|How do I know if I'm having a heart attack?|Heart attack warning signs",
+    "Tags": "Symptoms|Emergency|Heart Attack"
+  },
+  {
+    "Questions": "How does high blood pressure affect the heart?",
+    "Answers": "High blood pressure forces the heart to work harder to pump blood, which can lead to heart muscle thickening (hypertrophy), weakening of the heart muscle, and increased risk of heart failure. It also damages blood vessels and accelerates plaque buildup.",
+    "Patterns": "What damage does hypertension cause?|Effects of high blood pressure on heart|Impact of hypertension",
+    "Tags": "Hypertension|Risk Factors|Complications"
+  },
+  {
+    "Questions": "What is heart failure?",
+    "Answers": "Heart failure occurs when the heart muscle can't pump blood efficiently enough to meet the body's needs. It doesn't mean the heart has stopped but rather that it's not working as well as it should. This can result in fatigue, breathing problems, and fluid buildup.",
+    "Patterns": "Define heart failure|What happens in heart failure?|Explain heart failure condition",
+    "Tags": "Heart Failure|Basic Concepts|Chronic Conditions"
+  },
+  {
+    "Questions": "What lifestyle changes can prevent heart disease?",
+    "Answers": "Key lifestyle changes include maintaining a healthy diet low in saturated fats and salt, regular exercise (at least 150 minutes per week), maintaining a healthy weight, quitting smoking, limiting alcohol intake, and managing stress through relaxation techniques.",
+    "Patterns": "How to prevent heart disease?|Heart disease prevention tips|Ways to avoid heart problems",
+    "Tags": "Prevention|Lifestyle|Health Management"
+  },
+  {
+    "Questions": "What is an arrhythmia?",
+    "Answers": "An arrhythmia is an irregular heartbeat where the heart beats too fast (tachycardia), too slow (bradycardia), or with an irregular pattern. It occurs when the electrical signals controlling heartbeat don't work properly.",
+    "Patterns": "What causes irregular heartbeat?|Define cardiac arrhythmia|Types of arrhythmia",
+    "Tags": "Arrhythmia|Heart Rhythm|Basic Concepts"
+  },
+  {
+    "Questions": "What role does cholesterol play in heart disease?",
+    "Answers": "Cholesterol, particularly LDL (bad) cholesterol, can build up in artery walls, forming plaque that narrows and hardens arteries (atherosclerosis). This restricts blood flow and increases heart attack risk. HDL (good) cholesterol helps remove LDL from arteries.",
+    "Patterns": "How does cholesterol affect the heart?|Cholesterol and heart disease connection|Impact of high cholesterol",
+    "Tags": "Cholesterol|Risk Factors|Blood Tests"
+  },
+  {
+    "Questions": "What are heart valve disorders?",
+    "Answers": "Heart valve disorders occur when heart valves don't work properly, either not opening fully (stenosis) or not closing properly (regurgitation). This can disrupt blood flow through the heart and affect its ability to pump efficiently.",
+    "Patterns": "Types of valve problems|What are valvular heart diseases?|Heart valve disease explanation",
+    "Tags": "Valve Disease|Structural Heart Disease|Basic Concepts"
+  },
+  {
+    "Questions": "What is the difference between heart attack and cardiac arrest?",
+    "Answers": "A heart attack occurs when blood flow to part of the heart is blocked, causing tissue damage. Cardiac arrest occurs when the heart suddenly stops beating altogether. While a heart attack can lead to cardiac arrest, they are different conditions requiring different treatments.",
+    "Patterns": "Heart attack vs cardiac arrest|Difference between cardiac events|Compare heart emergencies",
+    "Tags": "Emergency|Heart Attack|Cardiac Arrest"
+  },
+  {
+    "Questions": "How does diabetes increase heart disease risk?",
+    "Answers": "Diabetes increases heart disease risk by damaging blood vessels and nerves that control the heart. High blood sugar levels can cause inflammation and build-up of fatty deposits in blood vessels. Diabetics are also more likely to have high blood pressure and cholesterol.",
+    "Patterns": "Diabetes heart disease connection|Why do diabetics have heart problems?|Diabetes cardiovascular risk",
+    "Tags": "Diabetes|Risk Factors|Comorbidities"
+  },
+  {
+    "Questions": "What is angina?",
+    "Answers": "Angina is chest pain or discomfort caused by reduced blood flow to the heart muscle. It often feels like pressure, squeezing, or burning in the chest and can also affect the shoulders, arms, neck, jaw, or back. It's a common symptom of coronary artery disease.",
+    "Patterns": "What causes chest pain?|Define angina pectoris|Types of angina",
+    "Tags": "Angina|Symptoms|CAD"
+  },
+  {
+    "Questions": "What is a stress test?",
+    "Answers": "A stress test measures how your heart performs during physical activity. During the test, you exercise (usually on a treadmill) while doctors monitor your heart rhythm, blood pressure, and breathing. It helps diagnose coronary artery disease and evaluate treatment plans.",
+    "Patterns": "How does a cardiac stress test work?|Purpose of stress testing|Heart exercise test explanation",
+    "Tags": "Diagnosis|Tests|Medical Procedures"
+  },
+  {
+    "Questions": "What causes heart disease in young adults?",
+    "Answers": "Heart disease in young adults can be caused by congenital defects, genetics, obesity, smoking, drug use, diabetes, high blood pressure, or high cholesterol. Lifestyle factors like poor diet, lack of exercise, and stress also contribute significantly.",
+    "Patterns": "Young people heart problems|Early onset heart disease|Youth cardiovascular issues",
+    "Tags": "Young Adults|Risk Factors|Prevention"
+  },
+  {
+    "Questions": "What is an echocardiogram?",
+    "Answers": "An echocardiogram is an ultrasound test that uses sound waves to create detailed images of the heart's structure and function. It shows the size, shape, and movement of heart chambers, valves function, and blood flow patterns.",
+    "Patterns": "What is an echo test?|Heart ultrasound explanation|Purpose of echocardiography",
+    "Tags": "Diagnosis|Tests|Medical Procedures"
+  },
+  {
+    "Questions": "How does smoking affect heart health?",
+    "Answers": "Smoking damages blood vessels, reduces oxygen in blood, and increases blood pressure and heart rate. It also promotes blood clot formation and plaque buildup in arteries. Smokers have a significantly higher risk of heart disease, heart attacks, and stroke.",
+    "Patterns": "Smoking heart disease connection|Effects of tobacco on heart|Why is smoking bad for heart",
+    "Tags": "Smoking|Risk Factors|Prevention"
+  },
+  {
+    "Questions": "How does obesity affect heart health?",
+    "Answers": "Obesity increases heart disease risk by raising blood pressure, cholesterol, and diabetes risk. Excess weight makes the heart work harder, leading to strain on the heart muscle and increased inflammation throughout the body.",
+    "Patterns": "Why is weight linked to heart problems?|Impact of obesity on heart|Weight and cardiovascular risk",
+    "Tags": "Obesity|Risk Factors|Prevention"
+  },
+  {
+    "Questions": "What is meant by 'silent heart attack'?",
+    "Answers": "A silent heart attack occurs with minimal or no symptoms, often discovered later during routine tests. Though damage occurs, the person may not experience typical chest pain or severe symptoms, making these attacks particularly dangerous.",
+    "Patterns": "What is a silent MI?|Can you have heart attack without knowing?|No symptom heart attacks",
+    "Tags": "Heart Attack|Silent MI|Emergency"
+  },
+  {
+    "Questions": "How does alcohol affect heart health?",
+    "Answers": "Alcohol's effect on heart health depends on amount consumed. While moderate drinking may have some benefits, excessive alcohol can lead to high blood pressure, irregular heartbeat, weakened heart muscle, and increased risk of heart failure.",
+    "Patterns": "Is alcohol bad for heart?|Drinking and heart disease|Impact of alcohol on heart",
+    "Tags": "Lifestyle|Risk Factors|Prevention"
+  },
+  {
+    "Questions": "What is a transient ischemic attack (TIA)?",
+    "Answers": "A transient ischemic attack is a temporary blockage of blood flow to the brain, often called a 'mini-stroke.' While symptoms resolve quickly, TIAs are serious warning signs that indicate high risk for future stroke and heart problems.",
+    "Patterns": "What is a mini stroke?|TIA symptoms and causes|Warning signs of stroke",
+    "Tags": "Stroke|TIA|Emergency"
+  },
+  {
+    "Questions": "What is the Mediterranean diet's impact on heart health?",
+    "Answers": "The Mediterranean diet reduces heart disease risk through emphasis on olive oil, fruits, vegetables, whole grains, fish, and limited red meat. Studies show it lowers blood pressure, improves cholesterol, and reduces inflammation.",
+    "Patterns": "Why is Mediterranean diet good for heart?|Best heart healthy diet plan|Mediterranean diet benefits",
+    "Tags": "Diet|Nutrition|Prevention"
+  },
+  {
+    "Questions": "How much water should I drink for heart health?",
+    "Answers": "Adequate hydration is essential for heart health, with recommended intake of 8-10 glasses (2-2.5 liters) of water daily. Proper hydration helps maintain blood volume, supports circulation, and prevents strain on the heart from blood thickening due to dehydration.",
+    "Patterns": "What's the right amount of water for heart?|Does drinking water help heart?|Daily water needs for cardiovascular health",
+    "Tags": "Lifestyle|Hydration|Prevention"
+  },
+  {
+    "Questions": "Can stress management techniques improve heart health?",
+    "Answers": "Yes, stress management techniques like meditation, deep breathing, yoga, and regular exercise can significantly improve heart health. These practices lower blood pressure, reduce stress hormones, improve sleep quality, and decrease inflammation, all of which benefit cardiovascular health.",
+    "Patterns": "How to reduce stress for heart?|Best relaxation techniques for heart|Impact of stress relief on heart",
+    "Tags": "Lifestyle|Stress Management|Mental Health"
+  },
+  {
+    "Questions": "Is sitting for long periods bad for heart health?",
+    "Answers": "Extended sitting periods significantly increase heart disease risk. Even with regular exercise, prolonged sitting can lead to poor circulation, higher blood pressure, and increased cholesterol levels. It's recommended to stand or move for 5-10 minutes every hour during the day.",
+    "Patterns": "Effects of sedentary lifestyle on heart|How does sitting affect heart?|Dangers of prolonged sitting",
+    "Tags": "Lifestyle|Physical Activity|Risk Factors"
+  },
+  {
+    "Questions": "What's the ideal bedtime routine for heart health?",
+    "Answers": "A heart-healthy bedtime routine includes avoiding screens 1-2 hours before sleep, maintaining a consistent sleep schedule, light stretching or relaxation exercises, avoiding heavy meals and caffeine late in the day, and sleeping in a cool, dark room for 7-9 hours.",
+    "Patterns": "Best evening routine for heart|How to sleep better for heart health|Night habits for healthy heart",
+    "Tags": "Lifestyle|Sleep|Prevention"
+  },
+  {
+    "Questions": "How does social connection affect heart health?",
+    "Answers": "Strong social connections and relationships positively impact heart health by reducing stress, encouraging healthy behaviors, and providing emotional support. People with strong social networks typically have lower blood pressure, better stress management, and reduced risk of heart disease.",
+    "Patterns": "Is loneliness bad for heart?|Social life heart health connection|Relationship effects on heart",
+    "Tags": "Lifestyle|Mental Health|Social Support"
+  }
+]
