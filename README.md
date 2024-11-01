@@ -6,6 +6,10 @@ A healthcare chatbot specialized in heart disease information using BERT transfo
 
 This chatbot is designed to provide reliable information about heart diseases, symptoms, treatments, and prevention strategies. It uses a fine-tuned BERT model to understand and respond to user questions with medically accurate information.
 
+## Project Presentation with Demo Video
+
+[Heart-Disease Assistant Chatbot](https://drive.google.com/file/d/1rtNrc4VF88v-CywOfS4mNy340xXVWiXY/view)
+
 ## Features
 
 - 🔍 Accurate question-answer matching using BERT
